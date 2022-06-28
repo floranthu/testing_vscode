@@ -5,5 +5,6 @@ int main(){
 
     cout<<"your full is mibo";  
     cout<<"third";
+    cout<<"your full is mibo";  
     return 0;
 }
